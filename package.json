@@ -1,16 +1,12 @@
 {
   "dependencies": {
-    "express": "^4.17.1",
-    "better-sqlite3": "^7.4.3",
-    "nodemailer": "^6.6.5"
+    "crypto-js": "^4.1.1"
   },
-  "name": "5V-webshop",
+  "name": "Hash cracker",
   "version": "1.0.0",
-  "main": "start.sh",
+  "main": "node app.js",
   "scripts": {
     "start": "bash start.sh"
   },
-  "repository": "https://github.com/emmauscollege/5V-webshop.git",
-  "author": "svgeest <gee@emmauscollege.nl>",
   "license": "MIT"
 }
