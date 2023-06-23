@@ -2,7 +2,7 @@
   "dependencies": {
     "crypto-js": "^4.1.1"
   },
-  "name": "Hash cracker",
+  "name": "HashCracker",
   "version": "1.0.0",
   "main": "node app.js",
   "scripts": {
